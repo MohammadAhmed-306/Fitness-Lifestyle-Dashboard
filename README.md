@@ -1,5 +1,10 @@
 # Fitness Lifestyle Dashboard
 
+**Developed as part of the Digital Egypt Pioneers Initiative (DEPI)**  
+
+---
+
+## Overview
 A Power BI project that analyzes **daily, weekly, and lifestyle activity trends** using fitness tracker data.  
 The dashboard provides insights into **steps, calories, active minutes, sedentary behavior, and intensity levels** to help users understand both short-term progress and long-term habits.
 
@@ -49,4 +54,6 @@ The dashboard is designed with **two modes** for better user experience:
 
 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/mohammad-al-mukadam)  
-- [Email](mohammad.almukadam@gmail.com)  
+- [Email](mohammad.almukadam@gmail.com)
+- Part of [Digital Egypt Pioneers Initiative (DEPI)](https://depi.gov.eg) 
+ 
