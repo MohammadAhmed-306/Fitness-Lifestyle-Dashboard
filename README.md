@@ -47,6 +47,6 @@ The dashboard is designed with **two modes** for better user experience:
 
 ---
 
-## Author
-Created by **Mohammad Ahmed Ayman**  
-
+## Connect with Me
+- [LinkedIn](www.linkedin.com/in/mohammad-al-mukadam)  
+- [Email](mohammad.almukadam@gmail.com)  
