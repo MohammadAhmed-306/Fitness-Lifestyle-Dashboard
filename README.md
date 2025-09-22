@@ -55,4 +55,5 @@ The dashboard is designed with **two modes** for better user experience:
 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/mohammad-al-mukadam)  
 - [Email](mohammad.almukadam@gmail.com)
-- Part of (https://www.linkedin.com/company/digital-egypt-pioneers-initiative-depi/) 
+- Part of [Digital Egypt Pioneers Initiative (DEPI)](https://depi.gov.eg) 
+ 
